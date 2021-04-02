@@ -1,7 +1,6 @@
 # HTML-CSS-Bootstrap-Website-Deploy
 Funny website using HTML, CSS and Bootstrap. Done as practice of a course.
 
-Basic website using HTML, CSS and Bootstrap.
 Deploy: https://martinlupa.github.io/HTML-CSS-Bootstrap-Website-Deploy/
 
 Sections 6-8
